@@ -23,4 +23,4 @@ The data gotten from kaggle was imported as a CSV file into Microsoft Excel. Pow
 
 ----
 # Findings and Reccommendation
-The findings shows that a total 891 passengers were on the ship. 549 and 342 individuals died and survived respectively. There were three passenger classess( first class, second class and third class). Also, the female gender survived the most.
+The findings shows that a total 891 passengers were on the ship. 549 and 342 individuals died and survived respectively. There were three passenger classess( first class, second class and third class), three points of embarkation(Queenstown, Cherboug and Southampton). The passengers that embarked from Cherbourg, in first class, and were mostly females survived the most.
